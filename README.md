@@ -1,5 +1,10 @@
 # NgrxStoreApp
 
+- Defined actions to express events.
+- Defined a reducer function to manage the state of the counter.
+- Registered the global state container that is available throughout your application.
+- Injected the Store service to dispatch actions and select the current state of the counter.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Development server
