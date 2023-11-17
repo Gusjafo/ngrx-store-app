@@ -1,4 +1,4 @@
-# NgrxStoreApp
+# NgrxStoreApp - Global store
 
 - Defined actions to express events.
 - Defined a reducer function to manage the state of the counter.
